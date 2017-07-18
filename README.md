@@ -1,0 +1,2 @@
+# humescores
+WordPress Theme
